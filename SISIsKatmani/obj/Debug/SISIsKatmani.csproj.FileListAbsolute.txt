@@ -1,0 +1,9 @@
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISIsKatmani.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISIsKatmani.pdb
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\obj\Debug\SISIsKatmani.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\obj\Debug\SISIsKatmani.pdb
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISVarliklar.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISVeriErisimKatmani.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISVarliklar.pdb
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\bin\Debug\SISVeriErisimKatmani.pdb

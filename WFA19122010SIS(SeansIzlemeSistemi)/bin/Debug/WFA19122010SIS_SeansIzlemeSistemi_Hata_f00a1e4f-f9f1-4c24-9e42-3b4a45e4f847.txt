@@ -1,0 +1,8 @@
+System.IndexOutOfRangeException: BaslangicSaati
+   konum: System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   konum: System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   konum: SISVeriErisimKatmani.Komut.StringGetir(SqlDataReader rdr, String alan) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Komut.cs içinde: satır 169
+   konum: SISVeriErisimKatmani.Seans.SeansBilgileriYukle(SqlDataReader sdr) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Seans.cs içinde: satır 194
+   konum: SISVeriErisimKatmani.Seans.UzmanSeanslariniListele(Int32 uzmanNo) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Seans.cs içinde: satır 182
+   konum: SISIsKatmani.Seans.UzmanSeanslariniListele(Int32 uzmanNo) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\Seans.cs içinde: satır 96
+   konum: WFA19122010SIS_SeansIzlemeSistemi_.FormSeansYonetimi.UzmanSeanslariniYukle() C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\WFA19122010SIS(SeansIzlemeSistemi)\FormSeansYonetimi.cs içinde: satır 51

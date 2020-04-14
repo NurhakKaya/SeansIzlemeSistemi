@@ -1,0 +1,17 @@
+System.Exception: Veritabanı işlem hatası ---> System.Data.SqlClient.SqlException: Cannot insert the value NULL into column 'SeansYapildi', table 'SIS(SeansIzlemeSistemi).dbo.Seanslar'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   konum: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   konum: System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   konum: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: SISVeriErisimKatmani.Komut.Islet() C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Komut.cs içinde: satır 141
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: SISVeriErisimKatmani.Komut.Islet() C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Komut.cs içinde: satır 147
+   konum: SISVeriErisimKatmani.Seans.Kaydet(Seans seans) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVeriErisimKatmani\Seans.cs içinde: satır 161
+   konum: SISIsKatmani.Seans.Kaydet(Seans seans) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\Seans.cs içinde: satır 80
+   konum: WFA19122010SIS_SeansIzlemeSistemi_.FormYeniSeans.btnKaydet_Click(Object sender, EventArgs e) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\WFA19122010SIS(SeansIzlemeSistemi)\FormYeniSeans.cs içinde: satır 69

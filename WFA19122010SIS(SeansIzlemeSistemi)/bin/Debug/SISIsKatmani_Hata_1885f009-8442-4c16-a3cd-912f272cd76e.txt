@@ -1,0 +1,12 @@
+System.Net.Mail.SmtpException: Posta gönderme hatası. ---> System.Net.WebException: Uzak ad çözülemedi: 'mail.hesapadi.com'
+   konum: System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   konum: System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   konum: System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   konum: System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   konum: System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   konum: System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   konum: System.Net.Mail.SmtpClient.GetConnection()
+   konum: System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: System.Net.Mail.SmtpClient.Send(MailMessage message)
+   konum: SISIsKatmani.Yardimci.YeniParolaEpostasiYolla(String eposta, String parola) C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISIsKatmani\Yardimci.cs içinde: satır 32

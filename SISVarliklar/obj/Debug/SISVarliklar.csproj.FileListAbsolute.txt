@@ -1,0 +1,5 @@
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVarliklar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVarliklar\bin\Debug\SISVarliklar.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVarliklar\bin\Debug\SISVarliklar.pdb
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVarliklar\obj\Debug\SISVarliklar.dll
+C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\SISVarliklar\obj\Debug\SISVarliklar.pdb

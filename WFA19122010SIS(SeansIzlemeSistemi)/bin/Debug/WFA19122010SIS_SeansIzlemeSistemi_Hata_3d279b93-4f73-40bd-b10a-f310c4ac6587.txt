@@ -1,0 +1,2 @@
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: WFA19122010SIS_SeansIzlemeSistemi_.FormUzmanSeansYonetimi.UzmanSeanslariniYukle() C:\Users\Nurhak\Documents\Visual Studio 2010\Projects\WFA19122010SIS(SeansIzlemeSistemi)\WFA19122010SIS(SeansIzlemeSistemi)\FormUzmanSeansYonetimi.cs içinde: satır 32
